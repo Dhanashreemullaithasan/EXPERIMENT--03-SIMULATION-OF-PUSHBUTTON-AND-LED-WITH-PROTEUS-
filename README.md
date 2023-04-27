@@ -107,8 +107,9 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
-
-
+### LED OFF:
+![led off](https://user-images.githubusercontent.com/94165415/234837764-23253dbc-d043-443a-a16e-c608faa13578.png)
+### LED ON:
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
